@@ -1,4 +1,5 @@
 package accounts;
 
-public class EspecialAccount {
+public class EspecialAccount extends Account{
+
 }
