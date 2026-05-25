@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b78bde7a-2325-4a2d-a981-4ac5351121fe" name="Changes" comment="primeiro commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/banks/GenericBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banks/GenericBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/banks/IBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banks/IBank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +95,10 @@
           <line>10</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="exceptions.AIException" package="exceptions" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
