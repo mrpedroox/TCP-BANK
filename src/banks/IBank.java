@@ -12,4 +12,5 @@ public interface IBank {
     public double balance(String id);
     public void transfer(String origin, String destiny, double value);
     public void runBonus(String id);
+    public void runFees(String id);
 }

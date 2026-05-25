@@ -1,15 +1,7 @@
 package banks;
-import accounts.AbstractAccount;
 
-import java.util.Vector;
+import accounts.IAccountRepo;
 
-
-public class VectorBank {
-    Vector<AbstractAccount> accounts;
-
-    public VectorBank(){
-        accounts = new Vector<>();
-    }
-
-
+public class VectorBank implements IBank, IAccountRepo{
+    private IAccountRepo accoounts;
 }
