@@ -4,6 +4,7 @@
     <list default="true" id="b78bde7a-2325-4a2d-a981-4ac5351121fe" name="Changes" comment="primeiro commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/accounts/EspecialAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accounts/EspecialAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/ArquivoConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/files/ArquivoConta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
