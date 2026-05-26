@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b78bde7a-2325-4a2d-a981-4ac5351121fe" name="Changes" comment="primeiro commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banks/GenericBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banks/GenericBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banks/IBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/banks/IBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accounts/EspecialAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accounts/EspecialAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,18 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mrpedroox"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mrpedroox&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mrpedroox/TCP-BANK.git",
-    "accountId": "8ba33b91-62bc-4160-a45b-cd519704851b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mrpedroox/TCP-BANK.git&quot;,
+    &quot;accountId&quot;: &quot;8ba33b91-62bc-4160-a45b-cd519704851b&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -49,6 +48,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",

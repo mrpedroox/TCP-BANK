@@ -6,6 +6,9 @@ public class EspecialAccount extends Account{
         super(id);
     }
 
+    public double getBonus(){
+        return bonus;
+    }
     public void runBonus(){
         super.credit(bonus);
         bonus = 0;
