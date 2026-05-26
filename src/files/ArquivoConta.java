@@ -18,7 +18,7 @@ public class ArquivoConta implements IAccountRepo {
 
             if(account instanceof Account) linha = "COMMON;" + account.getId() + ";" + account.getBalance();
             if(account instanceof SavingsAccount) linha = "SAVINGS;" + account.getId() + ";" + account.getBalance();
-            if(account instanceof EspecialAccount) linha = "SPECIAL;" + account.getId() + ";" + account.getBalance() + ((EspecialAccount) account).getBonus();
+            if(account instanceof EspecialAccount) linha = "SPECIAL;" + account.getId() + ";" + account.getBalance() + ";" + ((EspecialAccount) account).getBonus();
             if(account instanceof TaxAccount) linha = "TAX;" + account.getId() + ";" + account.getBalance();
 
             pWriter.println(linha);
